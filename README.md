@@ -1,1 +1,1 @@
-# Gesture-Controlled-Switch-Smart-Automation-
+# Gesture-Controlled-Switch-Smart-Automation
